@@ -7,6 +7,9 @@ SmartCharging Analytics is an interactive EV charging station dashboard built wi
 ![Status](https://img.shields.io/badge/Status-Deployed-green)
 ![Course](https://img.shields.io/badge/Course-Data%20Mining%20Year%201-orange)
 
+STREAMLIT APP LINK: https://arfqb2b3tv69uvyijbczef.streamlit.app/
+
+
 ---
 
 ## 📋 Project Overview
@@ -304,22 +307,15 @@ After completing all stages of data mining analysis on the EV charging station d
 
 ---
 
-## 🌐 Deployment on Streamlit Cloud
 
-1. Push this repository to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Sign in with your GitHub account
-4. Click **New App** → select your repository
-5. Set the main file as `app.py`
-6. Click **Deploy**
-7. Share the generated public link
+
 
 ---
 
 ## 👤 Author
 
-- **Student Name:** Your Full Name Here
-- **Student ID:** Your ID Here
+- **Student Name:** Ruhi Patel 
+- **Student ID:** 2505256
 - **Course:** Data Mining — Year 1
 - **CRS:** Artificial Intelligence
 - **Assessment:** Summative Individual Project
